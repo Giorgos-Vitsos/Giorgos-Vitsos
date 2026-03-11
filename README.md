@@ -11,9 +11,9 @@
 
 - ✉️ How to reach me **giorgistheo@gmail.com**
 
- ### GitHub Actions
+### 🟢 GitHub Actions
 
-[![Snake Workflow](https://github.com/Giorgos-Vitsos/Snake/actions/workflows/Snake.yml/badge.svg)](https://github.com/Giorgos-Vitsos/Snake/actions/workflows/Snake.yml)
+[![Snake Workflow](https://github.com/Giorgos-Vitsos/Giorgos-Vitsos/actions/workflows/Snake.yml/badge.svg)](https://github.com/Giorgos-Vitsos/Giorgos-Vitsos/actions/workflows/Snake.yml)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
