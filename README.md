@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giorgos Vitsos</h1>
+<h1 align="center">Hi, I'm Giorgos Vitsos</h1>
 <h3 align="center">I am currently an undergraduate student of Computer Science at the University of Crete. I'm interested in computer graphics, app development and system programming. I strive every day to learn something new and become a better programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgos-vitsos&label=Profile%20views&color=0e75b6&style=flat" alt="giorgos-vitsos" /> </p>
