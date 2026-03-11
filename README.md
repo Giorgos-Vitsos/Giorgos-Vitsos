@@ -11,7 +11,6 @@
 
 - ✉️ How to reach me **giorgistheo@gmail.com**
 
-![snake gif](https://github.com/Giorgos-Vitsos/Giorgos-Vitsos/blob/output/github-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
