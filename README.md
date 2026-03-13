@@ -7,8 +7,6 @@
 
 - 💡 I’m currently learning **Advanced searching algorithms**
 
-- 💻 All of my projects are available at [https://csd.uoc.gr/~csd5369/](https://csd.uoc.gr/~csd5369/)
-
 - ✉️ How to reach me **giorgistheo@gmail.com**
 
 
