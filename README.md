@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgos-vitsos&label=Profile%20views&color=0e75b6&style=flat" alt="giorgos-vitsos" /> </p>
 
-- 👩🏻‍💻 I’m currently working on **Alpha Compiler**
+- 👩🏻‍💻 I’m currently working on **a small game project**
 
-- 💡 I’m currently learning **Advanced searching algorithms**
+- 💡 I’m currently learning **computer graphics**
 
 - ✉️ How to reach me **giorgistheo@gmail.com**
 
