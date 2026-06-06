@@ -13,6 +13,5 @@ Hi there, I'm Giorgos! <br><br>I'm an undergraduate Computer Science student wit
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Giorgos-Vitsos&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Giorgos-Vitsos&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgos-vitsos&label=Profile%20views&color=0e75b6&style=flat" alt="giorgos-vitsos" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
