@@ -1,4 +1,4 @@
-#  About Me:
+
 Hi there, I'm Giorgos! <br><br>I'm an undergraduate Computer Science student with a passion for learning new things and being creative.<br>Actively developing my own small video game and expanding my knowledge in Computer Graphics and 3D environment development.<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgos-vitsos&label=Profile%20views&color=0e75b6&style=flat" alt="giorgos-vitsos" /> </p>
